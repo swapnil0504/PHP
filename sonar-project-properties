@@ -1,0 +1,17 @@
+# A unique key has given to SonarQube instance
+sonar.projectKey=PHP
+# Displayed in the SonarQube UI
+sonar.projectName=PHP Demo
+sonar.projectVersion=1.0
+
+# Language
+sonar.language=php
+
+
+# Comma-separated paths to directories with sources (required)
+sonar.sources=src/controller,src/model,src/view
+
+
+
+# Encoding of the source files
+sonar.sourceEncoding=UTF-8
